@@ -3,13 +3,15 @@ rOpenSci .github files
 
 Includes:
 
-* CONTRIBUTING.md
-* issue_template.md
-* pull_request_template.md
+* **CONTRIBUTING.md**
+* **issue_template.md**
+* **pull_request_template.md**
 
-Put these three files in a `.github` directory in the base of your R package. 
+Steps:
 
-Make sure to add a line with `.github` in your `.Rbuildignore` file in your package as well.
+* Put these three files in a `.github` directory in the base of your R package.
+* Update the `issue_template.md` file with the github owner (e.g., `ropensci`) and repo name (e.g., `foobar`).
+* Make sure to add a line with `.github` in your `.Rbuildignore` file in your package as well.
 
 ------
 
