@@ -1,6 +1,8 @@
 rOpenSci .github files
 ======================
 
+These files are mostly not specific to rOpenSci - there are a few items in the files specific to rOpenSci, but can be easily removed.
+
 Includes:
 
 * **CONTRIBUTING.md**
