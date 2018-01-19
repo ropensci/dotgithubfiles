@@ -6,8 +6,8 @@ These files are mostly not specific to rOpenSci - there are a few items in the f
 Includes:
 
 * **CONTRIBUTING.md**
-* **issue_template.md**
-* **pull_request_template.md**
+* **issue_template.md** (see the [raw text](https://raw.githubusercontent.com/ropensci/dotgithubfiles/master/issue_template.md))
+* **pull_request_template.md** (see the [raw text](https://raw.githubusercontent.com/ropensci/dotgithubfiles/master/pull_request_template.md))
 
 Steps:
 
