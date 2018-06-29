@@ -9,9 +9,9 @@ Includes:
 * [**issue_template.md**](dotgithub/issue_template.md)
 * [**pull_request_template.md**](dotgithub/pull_request_template.md)
 
-Steps:
+How to use the templates:
 
-*You can use the `rodev::use_ro_github()` function of [`rodev`](https://github.com/ropenscilabs/rodev) to perform all three steps*, or
+**You can use the `rodev::use_ro_github()` function of [`rodev`](https://github.com/ropenscilabs/rodev) to perform all three steps at once**, or
 
 * Put the content of [dotgithub folder](dotgithub/) i.e. these three files in a `.github` directory in the base of your R package.
 * Update the `CONTRIBUTING.md` file with the package name.
